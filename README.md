@@ -1,1 +1,1 @@
-[time[(https://www.baidu.com)]
+[time](https://www.baidu.com)
